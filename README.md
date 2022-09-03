@@ -1,5 +1,10 @@
 # vue-template
 
+I am a noob to frontend. But I would like to get access to an environment which is easier for me to get started to only focus on minor changes that I need to.
+
+This is one template to provide myself an ILLUSION that I can launch an enviornment with one click.
+
+
 ## Where does the template come from
 
 You don't have to do the following but the document here is for curious folk:

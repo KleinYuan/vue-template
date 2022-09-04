@@ -1,8 +1,16 @@
+# TLDR
+
+```
+make run
+```
+
+
 # vue-template
 
 I am a noob to frontend. But I would like to get access to an environment which is easier for me to get started to only focus on minor changes that I need to.
 
 This is one template to provide myself an ILLUSION that I can launch an enviornment with one click.
+
 
 
 ## Where does the template come from
@@ -19,8 +27,7 @@ vue create template
 ## I have no idea of front-end but just wanna run it with one click
 
 ```
-docker build -t vue-template .
-docker run -it -p 8080:8080 --rm --name vue-app vue-template
+make run
 ```
 
 Then you shall see the terminal says:
